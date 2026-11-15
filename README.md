@@ -1,6 +1,8 @@
+```mermaid
 flowchart TD
     Start([Start Program]) --> Load[Load Sample Data<br/>6 patients + 7 appointments]
     Load --> Menu
+
 
 
     %% ===================== MAIN MENU =====================
@@ -162,3 +164,4 @@ flowchart TD
     style Success1 fill:#2e7d32,color:#fff
     style Success2 fill:#2e7d32,color:#fff
     style SetCancel fill:#ef6c00,color:#fff
+```

@@ -1,0 +1,10 @@
+# Compiled class files
+*.class
+
+# Output and build folders
+bin/
+target/
+build/
+
+# VS Code local settings
+.vscode/

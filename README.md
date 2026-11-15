@@ -1,6 +1,7 @@
 flowchart TD
-Start([Start Program]) --> Load[Load Sample Data<br/>6 patients + 7 appointments]
-Load --> Menu
+    Start([Start Program]) --> Load[Load Sample Data<br/>6 patients + 7 appointments]
+    Load --> Menu
+
 
     %% ===================== MAIN MENU =====================
     Menu[Show Main Menu<br/>1. Add Patient<br/>2. Search Patient<br/>3. Display Patients<br/>4. Book Appointment<br/>5. Display Schedule<br/>6. Cancel Appointment<br/>7. Daily Summary<br/>8. Exit]

@@ -2,17 +2,8 @@ import java.util.Scanner;
 
 /**
  * AURELIA DENTAL CLINIC MANAGEMENT SYSTEM
- * COMPROG1 - Computer Programming 1
- * Application 5: Dental Clinic Management
- *
- * Concepts demonstrated:
- * variables and data types, input/output, operators, conditionals,
- * loops, parallel arrays, methods, string manipulation,
- * input validation, and menu-driven programming.
- *
- * Sample data is loaded every time the program starts.
- * Type "cancel" at any prompt to go back to the menu.
  */
+
 public class DentalBlank {
 
     static final int MAX = 50;

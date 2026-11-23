@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
-/**
- * AURELIA DENTAL CLINIC MANAGEMENT SYSTEM
- */
+// AURELIA DENTAL CLINIC MANAGEMENT SYSTEM
+ 
 
 public class DentalBlank {
 
